@@ -6,3 +6,6 @@
 + Message boxes not always shown at front
 + Collection date format changed to ISO8601
 + Collection date default is current date
+### 0.0.0.4
++ Change to keeping last 7 days records and logs
+
